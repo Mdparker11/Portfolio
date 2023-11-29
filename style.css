@@ -1,0 +1,53 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+    text-align: top; ;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: middle;
+}
+
+
+.skills {
+    font-style: italic;
+    font-display: inherit;  
+    text-align: right;
+    
+    
+}
+
+ul {
+    align-content: center;
+    font-weight: bold;
+}
+
+html {
+    background-color: rgb(3, 119, 134);
+    
+}
+
+.navbar {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    vertical-align: auto;
+}
+
+.profile {
+   margin: 6px;
+    
+}
+
